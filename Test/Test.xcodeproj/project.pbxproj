@@ -12,6 +12,7 @@
 		A753FC47244314BD0041BB3E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A753FC45244314BD0041BB3E /* Main.storyboard */; };
 		A753FC49244314BE0041BB3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A753FC48244314BE0041BB3E /* Assets.xcassets */; };
 		A753FC4C244314BE0041BB3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A753FC4A244314BE0041BB3E /* LaunchScreen.storyboard */; };
+		A753FC54244314FD0041BB3E /* custom_crypto.sh in Resources */ = {isa = PBXBuildFile; fileRef = A753FC53244314FD0041BB3E /* custom_crypto.sh */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A753FC48244314BE0041BB3E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A753FC4B244314BE0041BB3E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A753FC4D244314BE0041BB3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A753FC53244314FD0041BB3E /* custom_crypto.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = custom_crypto.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		A753FC40244314BD0041BB3E /* Test */ = {
 			isa = PBXGroup;
 			children = (
+				A753FC53244314FD0041BB3E /* custom_crypto.sh */,
 				A753FC41244314BD0041BB3E /* AppDelegate.swift */,
 				A753FC43244314BD0041BB3E /* ViewController.swift */,
 				A753FC45244314BD0041BB3E /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A753FC54244314FD0041BB3E /* custom_crypto.sh in Resources */,
 				A753FC4C244314BE0041BB3E /* LaunchScreen.storyboard in Resources */,
 				A753FC49244314BE0041BB3E /* Assets.xcassets in Resources */,
 				A753FC47244314BD0041BB3E /* Main.storyboard in Resources */,
