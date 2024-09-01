@@ -9,7 +9,6 @@
 import UIKit
 
 /// First commit
-/// 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
